@@ -1,4 +1,4 @@
-### Hi there 👋
+### About 👋
 
 - 🌱 I’m currently learning: all things VMware Cloud Foundation; GitHub Actions; doing more with Terraform & Ansible
 - 🔭 I’m currently working on: all of the above and more in my [homelab-monorepo](https://github.com/clayshek/homelab-monorepo)
